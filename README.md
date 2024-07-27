@@ -13,7 +13,7 @@ This project displays a list of wellness retreats with filtering and pagination 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/wellness-retreats.git
+    git clone https://github.com/hemant7581/wellness-retreats.git
     cd wellness-retreats
     ```
 
@@ -24,7 +24,7 @@ This project displays a list of wellness retreats with filtering and pagination 
 
 3. **Start the development server**:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Usage
